@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+h3.list-header {
+    margin-bottom: 0px;
+}
+h3.list-header + ul {
+    margin-top: 0px;
+}
