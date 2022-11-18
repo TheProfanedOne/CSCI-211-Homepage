@@ -65,7 +65,7 @@ article p:first-of-type {
    background-color: rgb(249, 249, 165);
 
    -moz-box-shadow: black 7px 7px 0px;
-   webkit-box-shadow: black 7px 7px 0px; 
+   -webkit-box-shadow: black 7px 7px 0px; 
    box-shadow: black 7px 7px 0px; 
 }
 
