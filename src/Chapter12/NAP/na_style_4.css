@@ -88,7 +88,7 @@ article p:last-of-type {
    background-color: rgb(199, 242, 242);
 
    -moz-box-shadow: black 7px -7px 0px;
-   webkit-box-shadow: black 7px -7px 0px; 
+   -webkit-box-shadow: black 7px -7px 0px; 
    box-shadow: black 7px -7px 0px;
 }
 
